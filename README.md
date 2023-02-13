@@ -13,6 +13,7 @@ In this program, we have prepared software where the user can adjust the message
 - Enter the required e-mail address and password information.
 - You can press the start button.
 - You can see the processes and results in the following process and also you can set dark or light mode
+- And finally, you can find your merge "Final.pdf" in the "Final" folder on the desktop.
 
 
 
