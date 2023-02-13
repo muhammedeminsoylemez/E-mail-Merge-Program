@@ -4,7 +4,7 @@ We noticed that some people's e-mail addresses receive too many pdf e-mails for 
 
 In this program, we have prepared software where the user can adjust the messages received from certain people and within a certain period of time. Users who receive too many pdf files will be able to set specific criteria in this way, and the pdfs they want are quickly downloaded, combined, and presented to the user.
 
-### Instruction
+### Instruction:
 #### First, select the date. Appropriate pdfs in emails from the date you selected to the present will be downloaded
 #### After choosing the date, decide from whom you want to download the pdfs and enter them in the appropriate field.
 #### Choose whether you want pdfs in read or unread e-mails.
